@@ -7,10 +7,10 @@ Amazon Prime is another one of the most popular media and video streaming platfo
  
  Problem statement : 
  
-Understanding what content is available in different countries
-Identifying similar content by matching text-based features
-Network analysis of Actors / Directors and find interesting insights
-Does Amazon Prime has more focus on TV Shows than movies in recent years.
+             1.  Understanding what content is available in different countries
+              2. Identifying similar content by matching text-based features
+              3.Network analysis of Actors / Directors and find interesting insights
+             4. Does Amazon Prime has more focus on TV Shows than movies in recent years.
 
 conclusion : Amazon has more focus on movies rather tham TV shows.
 
