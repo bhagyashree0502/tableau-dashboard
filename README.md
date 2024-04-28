@@ -12,5 +12,7 @@ Identifying similar content by matching text-based features
 Network analysis of Actors / Directors and find interesting insights
 Does Amazon Prime has more focus on TV Shows than movies in recent years.
 
+conclusion : Amazon has more focus on movies rather tham TV shows.
+
 
  
